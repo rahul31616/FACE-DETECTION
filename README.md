@@ -1,12 +1,12 @@
 # Face Recognition Web App with Machine Learning & Flask
-Face recognition is one of the most widely used in my application. If at all you want to develop and deploy the application on the web only knowledge of machine learning or deep learning is not enough. You also need to know the creation of pipeline architecture and call it from the client-side, HTTP request, and many more. While doing so you might face many challenges while developing the app. This course is structured in such a way that you can able to develop the face recognition based web app from scratch.
+Face recognition is one of the most widely used technologies in modern applications. I have learned that to develop and deploy such an application on the web, knowing only machine learning or deep learning is not sufficient. It is also important to understand how to build a pipeline architecture, handle HTTP requests from the client-side, and manage several other components. During the development process, one can encounter various real-world challenges. This project has helped me learn how to build a face recognition-based web app completely from scratch.
 ### Final Ouptut of the project
 
 ![project_output](https://user-images.githubusercontent.com/75901421/184621727-ba0858f1-2151-43af-bc48-3be30dd45f60.gif)
 
 After completion of the course you will develop as shown in URL: <https://genderrecognition-flask.herokuapp.com/>
 
-What you will learn?
+What you will learned?
 
 1. Python
 2. Image Processing with OpenCV
@@ -19,8 +19,8 @@ What you will learn?
 
 Finally, Face recognition Web App
 
-You will learn image processing techniques in OpenCV and the concepts behind the images. We will also do the necessary image analysis and required preprocessing steps for images. 
+I have learned various image processing techniques using OpenCV and gained a clear understanding of the concepts behind digital images. I also explored essential image analysis methods and applied the required preprocessing steps to prepare images for further tasks.
 
-For the preprocess images, we will extract features from the images, ie. computing Eigen images using principal component analysis. With Eigen images, we will train the Machine learning model and also learn to test our model before deploying, to get the best results from the model we will tune with the Grid search method for the best hyperparameters.
+I have learned how to preprocess images by extracting features through techniques like computing Eigen images using Principal Component Analysis. Using these Eigen images, I trained a machine learning model and tested it before deployment. To ensure optimal performance, I tuned the model using the Grid Search method to find the best hyperparameters..
 
-Once our machine learning model is ready, will we learn and develop a web server gateway interphase in flask by rendering HTML CSS and bootstrap in the frontend and in the backend written in Python.  Finally, we will create the project on the Face Recognition project by integrating the machine learning model to Flask App.
+I have learned to develop a Web Server Gateway Interface using Flask by rendering HTML, CSS, and Bootstrap for the frontend, with Python handling the backend. Finally, I built the complete Face Recognition project by integrating the trained machine learning model into the Flask application.
